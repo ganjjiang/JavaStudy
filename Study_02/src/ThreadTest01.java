@@ -1,5 +1,5 @@
 
-public class TreadTest01 {
+public class ThreadTest01 {
 	public static void main(String[] args) {
 		ThreadEx1_1 t1 = new ThreadEx1_1(); 
 		
