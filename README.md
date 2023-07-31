@@ -1,2 +1,2 @@
-# JavaStudy_01
-지네릭스, 열거형, 애너테이션 실습 eclipse
+# JavaStudy
+자바의 정석 Chapter12부터 eclipse 실습
